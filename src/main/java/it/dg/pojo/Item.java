@@ -8,6 +8,7 @@ public class Item {
 	private String name;
 	private String surname;
 	private String birth;
+	private String name;
 
 	public Item() {
 
